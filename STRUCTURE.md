@@ -1,7 +1,7 @@
 ## Estrutura de pastas
 Esta é a estrutura de pastas para um Prjeto FastAPI. A estrutura de pastas é baseada no [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) e no [FastAPI](https://fastapi.tiangolo.com/).
 
-Foram feitas modificações para adequar a estrutura de pastas um melhor uso a minha realidade. Sinta-se livre para sugerir melhorias e alterar essa estrutura para atender a sua realidade.
+Foram feitas modificações para adequar a estrutura de pastas para um melhor uso a minha realidade. Sinta-se livre para sugerir melhorias e alterar essa estrutura para atender a realidade do seu projeto.
 
 ```bash
 .
